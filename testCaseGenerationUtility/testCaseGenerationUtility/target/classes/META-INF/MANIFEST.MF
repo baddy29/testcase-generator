@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TestCaseGenerationUtility
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: temp
+Implementation-Vendor-Id: com.test.generation.utility
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/TestCaseGene
+ rationUtility/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
